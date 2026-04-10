@@ -432,6 +432,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"메시지를 보내는 것과, Exchange가 어떤 Queue로 어떻게 라우팅하는지 아는 것은 다르다"*
+**"메시지를 보내는 것과, Exchange가 어떤 Queue로 어떻게 라우팅하는지 아는 것은 다르다"**
 
 </div>
